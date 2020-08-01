@@ -1,5 +1,8 @@
 _repo: Rikostoverit-ym-novelleja_62732
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stern, Adolf
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Adolf_Stern_(Schriftsteller)
     - https://en.wikipedia.org/wiki/Adolf_Stern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62732#Rikostoverit-ym-novelleja
 gutenberg_issued: '2020-07-23'
 gutenberg_type: Text
 identifiers:
