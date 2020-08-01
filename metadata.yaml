@@ -1,0 +1,30 @@
+_repo: Rikostoverit-ym-novelleja_62732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stern, Adolf
+    alias: Stern, Adolf Ernst
+    birthdate: 1835
+    deathdate: 1907
+    gutenberg_agent_id: '52094'
+    url: http://www.gutenberg.org/2009/agents/52094
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Adolf_Stern_(Schriftsteller)
+    - https://en.wikipedia.org/wiki/Adolf_Stern
+description: ''
+gutenberg_issued: '2020-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62732'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Adolf Stern -- Rikostoverit -- Veit lasinpuhaltaja -- Alppijoen partaalla.
+title: Rikostoverit y.m. novelleja
+url: http://www.gutenberg.org/ebooks/62732
